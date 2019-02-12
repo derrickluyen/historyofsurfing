@@ -1,0 +1,61 @@
+body {
+  background-image: url("surf.jpg");
+  color: crimson;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 50px 100px 50px 100px;
+}
+
+h1, h2 {
+  font-family: 'Lato', 'sans-serif';
+}
+
+h1 {
+  font-size: 36pt;
+}
+
+h2 {
+  font-size: 30pt;
+}
+
+p {
+  font-family: 'Muli', 'sans-serif';
+}
+
+img {
+  padding: 10px 60px 10px 60px;
+}
+
+.one {
+  position: absolute;
+  bottom: 110px;
+  left: 180px;
+  width: 150%;
+}
+
+.two {
+  position: absolute;
+  bottom: 110px;
+  left: 530px;
+  width: 150%;
+}
+
+.three {
+  position: absolute;
+  bottom: 110px;
+  left: 830px;
+  width: 150%;
+}
+
+.four {
+  position: absolute;
+  bottom: 110px;
+  left: 1170px;
+  width: 150%;
+}
+
+
+
+
+
+
